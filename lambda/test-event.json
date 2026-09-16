@@ -1,0 +1,13 @@
+{
+  "Records": [
+    {
+      "transaction_id": "TX_TEST_001",
+      "customer_id": "CUST_TEST",
+      "amount": 150000,
+      "currency": "INR",
+      "merchant_id": "MERCH_TEST",
+      "customer_avg_amount": 1000,
+      "merchant_risk": "HIGH"
+    }
+  ]
+}
